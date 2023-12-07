@@ -2,5 +2,5 @@ field,display_name,btn,hidden,sort_name
 title,Title,,,
 cdwacreatoridentity,Creator,,,
 cdwacreatorrole,Role,,,
-cdwageneralsubject,Subject,,,
+subject,Subject,,,
 cdwaobjectworktype,Type,,,
