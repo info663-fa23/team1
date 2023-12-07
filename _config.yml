@@ -38,7 +38,7 @@ metadata: team1-repo
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
-#   - data: 'demo-metadata'
+#   - data: 'team1-repo'
 #     template: 'item'
 #     name: 'objectid'
 #     dir: 'items'
