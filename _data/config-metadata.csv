@@ -2,7 +2,7 @@ field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 cdwacreatoridentity,Creator,,,DCTERMS.creator,creator
 cdwacreatorrole,Role,,,,
-cdwageneralsubject, Subject,,,,
+subject,Subject,,,,
 cdwastyleperioddescription,Style,,,,
 cdwacreationdate,Date,,,,
 cdwadimensionsdescription,Canvas Dimensions,,,,
