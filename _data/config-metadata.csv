@@ -1,14 +1,15 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
-date,Date Created,,,DCTERMS.date,dateCreated
-description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
-source,Source,,,,
-identifier,Source Identifier,,,,
-type,Type,,,DCTERMS.type,
-format,Format,,,,encodingFormat
-rightsstatement,,,,DCTERMS.rights,license
+cdwa:creator identity,Creator,,,DCTERMS.creator,creator
+cdwa:creator role,Role,,,,
+cdwa:general subject, Subject,,,,
+cdwa:style/period description,Latitude1,,,,
+cdwa:creation date,Latitude2,,,,
+cdwa:dimensions description,Latitude3,,,,
+cdwa:provenance description,Latitude4,,,,
+cdwa:object/work type,Latitude,,,,
+cdwa:respository/geographic location,Latitude,,,,
+cdwa:venue name/place,Latitude,,,,
+cdwa:person/corporate body authority,Latitude,,,,
+cdwa:related textual references,Latitude,,,,
+cdwa:image references,Latitude,,,,
