@@ -1,15 +1,15 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
-cdwa:creatoridentity,Creator,,,DCTERMS.creator,creator
-cdwa:creatorrole,Role,,,,
-cdwa:generalsubject, Subject,,,,
-cdwa:styleperioddescription,Style,,,,
-cdwa:creationdate,Date,,,,
-cdwa:dimensionsdescription,Canvas Dimensions,,,,
-cdwa:provenancedescription,Provenance,,,,
-cdwa:objectworktype,Type,,,,
-cdwa:respositorygeographiclocation,Collection Stamp,,,,
-cdwa:venue nameplace,Last Exhibit Location,,,,
-cdwa:personcorporate body authority,Photographer Stamp,,,,
-cdwa:relatedtextualreferences,Bibliographic References,,,,
-cdwa:imagereferences,Related Works,,,,
+cdwacreatoridentity,Creator,,,DCTERMS.creator,creator
+cdwacreatorrole,Role,,,,
+cdwageneralsubject, Subject,,,,
+cdwastyleperioddescription,Style,,,,
+cdwacreationdate,Date,,,,
+cdwadimensionsdescription,Canvas Dimensions,,,,
+cdwaprovenancedescription,Provenance,,,,
+cdwaobjectworktype,Type,,,,
+cdwarespositorygeographiclocation,Collection Stamp,,,,
+cdwavenue nameplace,Last Exhibit Location,,,,
+cdwapersoncorporate body authority,Photographer Stamp,,,,
+cdwarelatedtextualreferences,Bibliographic References,,,,
+cdwaimagereferences,Related Works,,,,
