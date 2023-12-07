@@ -1,4 +1,4 @@
-objectid,parentid,title,cdwa:creator identity,cdwa:creator role,cdwa:general subject terms,cdwa:style/period description,cdwa:creation date,cdwa:dimensions description,cdwa:provenance description,cdwa:object/work type,cdwa:repository/geographic location,cdwa:venue name/place,cdwa:person/corporate body authority,cdwa:related textual references,cdwa:image references
+objectid,parentid,title,cdwa:creatoridentity,cdwa:creatorrole,cdwa:generalsubject terms,cdwa:styleperioddescription,cdwa:creationdate,cdwa:dimensionsdescription,cdwa:provenancedescription,cdwa:objectworktype,cdwa:repositorygeographiclocation,cdwa:venuenameplace,cdwa:personcorporatebodyauthority,cdwa:relatedtextualreferences,cdwa:imagereferences
 Painting01,,Portrait of a Venetian General,"Veronese, Paolo",artist,military,Renaissance,16th century,199.5 x 119 cm (80 x 47 inches),"The 12th Duke of Hamilton, Hamilton Palace, Christie Sale, June 24, 1882, lot 411 as Giorgione",Painting,,"Mentmore, England",,,109644
 ,,,,,portraits,,,,"The 6th East of Rosebery, Mentmore, Christie Sale, May 5, 1939, lot 45 as Giorgione",,,,,,
 ,,,,,,,,,Koetser,,,,,,
@@ -6,34 +6,34 @@ Painting01,,Portrait of a Venetian General,"Veronese, Paolo",artist,military,Ren
 ,,,,,,,,,"Coal. Charpentier Sale, PAris, Nov. 30, 1954 lot 34",,,,,,
 ,,,,,,,,,Wildenstein,,,,,,
 ,,,,,,,,,"Frederick W. Field, Greenacres, Beverly Hills, Christie Sale, London, July 5, 1991 lot 4",,,,,,
-109644,Painting01,Photo of Portrait of a Venetian General,,,,,,,,Photograph,Fototeca Berenson Firenze I Tatti Settignano,,,true,Painting01
+109644,Painting01,Photo of Portrait of a Venetian General,,,,,,,,Photograph,Fototeca Berenson Firenze I Tatti Settignano,,,TRUE,Painting01
 Painting02,,Poet between Vice & Virtue,"Veronese, Paolo",artist,allegory,Renaissance,16th century,152.4 x 114.3 cm (60 x 45 inches),,Painting,,"Ponte a Mariano, Italy",,,109659
 ,,,,,history and legend,,,,,,,,,,
-109659,Painting02,Photo of Poet between Vice & Virtue,,,,,,,,Photograph,Fototeca Berenson Firenze I Tatti Settignano,,Bernhard Berenson Florence I Tatti Settignano,true,Painting02
+109659,Painting02,Photo of Poet between Vice & Virtue,,,,,,,,Photograph,Fototeca Berenson Firenze I Tatti Settignano,,Bernhard Berenson Florence I Tatti Settignano,TRUE,Painting02
 Painting03,,Venus & Adonis,"Veronese, Paolo",artist,religion and mythology,Renaissance,16th century,,Private Collection,Painting,,,,,109689
-109689,Painting03,Photo of Venus & Adonis,,,,,,,,Photograph,Fototeca Berenson Firenze I Tatti Settignano,,,false,Painting03
+109689,Painting03,Photo of Venus & Adonis,,,,,,,,Photograph,Fototeca Berenson Firenze I Tatti Settignano,,,FALSE,Painting03
 Painting04,,The Astronomer,"Veronese, Paolo",artist,human figures,Renaissance,16th century,138.43 x 110.49 cm (54.5 x 43.5 inches),"De Burlet, Berlin, Sept. 1922",Painting,,,,,109707
 ,,,,,science,,,,"Agnew, August 1925",,,,,,
-109707,Painting04,Photo of The Astronomer,,,,,,,,Photograph,Fototeca Berenson Firenze I Tatti Settignano,,"A. C. Cooper, Fine Art Photographer",true,Painting04
+109707,Painting04,Photo of The Astronomer,,,,,,,,Photograph,Fototeca Berenson Firenze I Tatti Settignano,,"A. C. Cooper, Fine Art Photographer",TRUE,Painting04
 Painting05,,Shephard & Nymph,"Bordone, Paris",artist,religion and mythology,Renaissance,16th century,,Crespi Collection,Painting,,"Milan, Italy",,,109832
-109832,Painting05,Photo of Shephard & Nymph,,,,,,,,Photograph,Fototeca Berenson Firenze I Tatti Settignano,,,true,Painting05
+109832,Painting05,Photo of Shephard & Nymph,,,,,,,,Photograph,Fototeca Berenson Firenze I Tatti Settignano,,,TRUE,Painting05
 Painting11,,Madonna with Infant John,"Bassano, Jacopo",artist,religion and mythology,Renaissance,16th century,77 x 88 cm (29.5 x 33.5 inches),Earl of Carlisle,Painting,,"Venice, Italy",,,110164
 ,,,,,figurative art,,,,"Edembridge (Kent), Archibald Werner, Sotheby Sale, March 27, 1968 lot 27",,,,,,
-110164,Painting11,Photo of Madonna with Infant John,,,,,,,,Photograph,Fototecha Bereson Firenze I Tatti Settignano,,Thos. Agnew & Sons LTD,true,Painting11
+110164,Painting11,Photo of Madonna with Infant John,,,,,,,,Photograph,Fototecha Bereson Firenze I Tatti Settignano,,Thos. Agnew & Sons LTD,TRUE,Painting11
 Painting11,,The Madonna & Child & St. John,"Bassano, Jacopo",artist,religion and mythology,Renaissance,16th century,77 x 88 cm (29 x 33.25 inches),"Lord Carlisle, Castle Howard",Painting,,"Venice, Italy",,,110165
 ,,,,,figurative art,,,,"Hon. Geoffrey W.A. Howard, 1944",,,,,,
 ,,,,,,,,,"Edenbridge (Kent), Archibald Werner, Sotheby's Sale, March 27, 1968 lot 27",,,,,,
-110165,Painting11,Photo of The Madonna & Child & St. John,,,,,,,,Photograph,Fototecha Bereson Firenze I Tatti Settignano,,A.C. Cooper LTD.,false,Painting11
+110165,Painting11,Photo of The Madonna & Child & St. John,,,,,,,,Photograph,Fototecha Bereson Firenze I Tatti Settignano,,A.C. Cooper LTD.,FALSE,Painting11
 Painting12,,cp with München alterpiece,"Bassano, Jacopo",artist,religion and mythology,Renaissance,1550,,"Carnesa, Milano, 1954",Painting,,,,,110168
 ,,,,,figurative art,,,,,,,,,,
-110168,Painting12,Photograph of cp with München alterpiece,,,,,,,,Photograph,Fototecha Bereson Firenze I Tatti Settignano,,Mario Perotti,false,Painting12
+110168,Painting12,Photograph of cp with München alterpiece,,,,,,,,Photograph,Fototecha Bereson Firenze I Tatti Settignano,,Mario Perotti,FALSE,Painting12
 Painting13,,Rest on Flight,"Bassano, Jacopo",artist,religion and mythology,Renaissance,16th century,120 x 155 cm (44.25 x 61 inches),Acquired in Florence c. 1871 by Sir John Leslie,Painting,,,,,110186
 ,,,,,figurative art,,,,"Desmond Leslie, Castle Leslie, Co. Monaghan, Eire, Sotheby Sale, Dec. 12, 1973 lot 84",,,,,,
-110186,Painting13,Photograph of Rest on Flight,,,,,,,,Photograph,Fototecha Bereson Firenze I Tatti Settignano,,,false,Painting13
+110186,Painting13,Photograph of Rest on Flight,,,,,,,,Photograph,Fototecha Bereson Firenze I Tatti Settignano,,,FALSE,Painting13
 Painting14,,Portrait of Old Woman,"Bassano, Jacopo",artist,portraits,Renaissance,16th century,118 x 98.5 cm (46.5 x 38.75 inches),"Watney Collection, Cornbury Park",Painting,,"Cornbury Park (Charlbury, Oxfordshire, United Kingdom)",,,110226
 ,,,,,,,,,"Christie Sale, June 23, 1967 lot 37",,,,,,
 ,,,,,,,,,"Sotheby Sale, New York, June 11, 1981 lot 122",,,,,,
-110226,Painting14,Photograph of Portrait of Old Woman,,,,,,,,Photograph,Fototecha Bereson Firenze I Tatti Settignano,,,false,Painting14
+110226,Painting14,Photograph of Portrait of Old Woman,,,,,,,,Photograph,Fototecha Bereson Firenze I Tatti Settignano,,,FALSE,Painting14
 Painting06,,Courtesan,"Bordone, Paris",artist,portraits,Renaissance,16th century,106.8 x 82.3 cm (45 x 32 3/8 inches),"O.V. Watney, Cornbury Park",Painting,,"J. Paul Getty Museum, Malibu",,,109833
 ,,,,,,,,,"Christie Sale, June 23, 1967 lot 51",,,,,,
 ,,,,,,,,,"J. Paul Getty, Sutton Place, Guildford, Surrey",,,,,,
@@ -41,15 +41,15 @@ Painting06,,Courtesan,"Bordone, Paris",artist,portraits,Renaissance,16th century
 ,,,,,,,,,"Christie Sale, New York, May 21, 1992, lot 37",,,,,,
 109833,Painting06,Photograph of Courtesan,,,,,,,,Photograph,Fototecha Bereson Firenze I Tatti Settignano,,"Christie's, Photography by A.C. Cooper LTD 629 7583",,Painting06
 Painting07,,3/4 Length Portrait of Fair Haired Woman Holding Elaborate Mirror,"Bordone, Paris",artist,portraits,Renaissance,,87.63 x 72.39 cm (34 1/2 x 28 1/2 inches),"24 July, 1945. Christie Sale, London. Bought by Koesten for £651.",Painting,,,,,109842
-109842,Painting07,Photograph of 3/4 Length Portrait of Fair Haired Woman Holding Elaborate Mirror,,,,,,,,Photograph,Fototecha Bereson Firenze I Tatti Settignano,,A.C. Cooper LTD,true,Painting07
+109842,Painting07,Photograph of 3/4 Length Portrait of Fair Haired Woman Holding Elaborate Mirror,,,,,,,,Photograph,Fototecha Bereson Firenze I Tatti Settignano,,A.C. Cooper LTD,TRUE,Painting07
 Painting08,,Rest on Flight,"Bordone, Paris",artist,religion and mythology,Renaissance,16th century,151 x 235 cm (61 x 92 1/2 inches),"James Cozenovel Sale, Christie's, May 18, 1833, lot 105",Painting,,R.A. 1960 n. 76,,,109880
 ,,,,,figurative art,,,,"Spencer-Churchill, Northwick Park",,,,,,
 ,,,,,,,,,"Chrstie Sale, May 28, 1965, lot 27",,,,,,
 ,,,,,,,,,"Christie Sale, March 14, 1975 lot 110",,,,,,
-109880,Painting08,Photograph of Rest on Flight,,,,,,,,Photograph,Fototecha Bereson Firenze I Tatti Settignano,,Cooper,true,Painting08
+109880,Painting08,Photograph of Rest on Flight,,,,,,,,Photograph,Fototecha Bereson Firenze I Tatti Settignano,,Cooper,TRUE,Painting08
 Painting09,,Rest on Flight,"Bordone, Paris",artist,religion and mythology,Renaissance,16th century,48.7 x 68.8 cm (19 x 27 inches),,Painting,,,,,109881
 ,,,,,figurative art,,,,,,,,,,
-109881,Painting09,Photograph of Rest on Flight,,,,,,,,Photograph,Fototecha Bereson Firenze I Tatti Settignano,,,true,Painting09
+109881,Painting09,Photograph of Rest on Flight,,,,,,,,Photograph,Fototecha Bereson Firenze I Tatti Settignano,,,TRUE,Painting09
 Painting10,,Holy Family and Infant St. John,"Bordone, Paris",artist,religion and mythology,Renaissance,16th century,100 x 137 cm (30 3/4 x 54 3/4 inches),"Lord Ranelagh, 1829",Painting,,,,,109897
 ,,,,,figurative art,,,,Stirling Coll. Keir,,,,,,
 ,,,,,,,,,"Stirling Sale, Sotheby, July 3, 1963, lot 44",,,,,,
@@ -57,4 +57,4 @@ Painting10,,Holy Family and Infant St. John,"Bordone, Paris",artist,religion and
 ,,,,,,,,,"Casa Venier, Venice",,,,,,
 ,,,,,,,,,Sir Phillip Stephens,,,,,,
 ,,,,,,,,,"Christie Sale, May 17, 1810, lot 77",,,,,,
-109897,Painting10,Photograph of Holy Family and Infant St. John,,,,,,,,Photograph,Fototecha Bereson Firenze I Tatti Settignano,,Sotheby & Co.,true,Painting10
+109897,Painting10,Photograph of Holy Family and Infant St. John,,,,,,,,Photograph,Fototecha Bereson Firenze I Tatti Settignano,,Sotheby & Co.,TRUE,Painting10
