@@ -1,15 +1,15 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
-cdwa:creator identity,Creator,,,DCTERMS.creator,creator
-cdwa:creator role,Role,,,,
-cdwa:general subject, Subject,,,,
-cdwa:style/period description,Latitude1,,,,
-cdwa:creation date,Latitude2,,,,
-cdwa:dimensions description,Latitude3,,,,
-cdwa:provenance description,Latitude4,,,,
-cdwa:object/work type,Latitude,,,,
-cdwa:respository/geographic location,Latitude,,,,
-cdwa:venue name/place,Latitude,,,,
-cdwa:person/corporate body authority,Latitude,,,,
-cdwa:related textual references,Latitude,,,,
-cdwa:image references,Latitude,,,,
+cdwa:creatoridentity,Creator,,,DCTERMS.creator,creator
+cdwa:creatorrole,Role,,,,
+cdwa:generalsubject, Subject,,,,
+cdwa:styleperioddescription,Style,,,,
+cdwa:creationdate,Date,,,,
+cdwa:dimensionsdescription,Canvas Dimensions,,,,
+cdwa:provenancedescription,Provenance,,,,
+cdwa:objectworktype,Type,,,,
+cdwa:respositorygeographiclocation,Collection Stamp,,,,
+cdwa:venue nameplace,Last Exhibit Location,,,,
+cdwa:personcorporate body authority,Photographer Stamp,,,,
+cdwa:relatedtextualreferences,Bibliographic References,,,,
+cdwa:imagereferences,Related Works,,,,
