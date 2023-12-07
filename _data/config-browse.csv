@@ -1,6 +1,15 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
-subject,,true
-location,,true
-identifier,,,true,Identifier
+title,Title,,,
+cdwacreatoridentity,Creator,,,
+cdwacreatorrole,Role,,,
+cdwageneralsubject,Subject,,,
+cdwastyleperioddescription,Style,,,
+cdwacreationdate,Date,,,Date
+cdwadimensionsdescription,Canvas Dimensions,,,
+cdwaprovenancedescription,Provenance,,,
+cdwaobjectworktype,Type,,,
+cdwarespositorygeographiclocation,Collection Stamp,,,
+cdwavenue nameplace,Last Exhibit Location,,,
+cdwapersoncorporate body authority,Photographer Stamp,,,
+cdwarelatedtextualreferences,Bibliographic References,,,
+cdwaimagereferences,Related Works,,,
