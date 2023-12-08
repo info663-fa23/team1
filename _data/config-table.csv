@@ -1,5 +1,9 @@
 field,display_name
 title,Title
-date,Date
-description,Description
-subject,Subjects
+cdwacreatoridentity,Creator
+subject,Subject
+cdwastyleperioddescription,Style
+cdwaprovenancedescription,Provenance
+cdwavenue nameplace,Last Exhibit Location
+cdwarelatedtextualreferences,Bibliographic References
+cdwaimagereferences,Related Works
