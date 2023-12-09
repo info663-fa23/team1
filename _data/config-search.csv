@@ -1,7 +1,7 @@
 field,index,display
-title,TRUE,TRUE
-subject,TRUE,TRUE
-cdwacreatoridentity,TRUE,TRUE
-cdwapersoncorporate body authority,TRUE,TRUE
-cdwaprovenancedescription,TRUE,TRUE
-objectID,TRUE,TRUE
+title,true,true
+subject,true,true
+cdwacreatoridentity,true,true
+cdwapersoncorporate body authority,true,true
+cdwaprovenancedescription,true,true
+objectID,true,true
