@@ -1,5 +1,6 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,name
+format,Format,
 cdwacreatoridentity,Creator,,,DCTERMS.creator,creator
 subject,Subject,,,DCTERMS.subject,about
 cdwastyleperioddescription,Style,,,DCTERMS.coverage.temporal,genre
