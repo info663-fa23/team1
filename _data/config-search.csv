@@ -4,4 +4,5 @@ subject,true,true
 cdwacreatoridentity,true,true
 cdwapersoncorporatebodyauthority,true,true
 cdwaprovenancedescription,true,true
+cdwaimagereferences,true,true
 objectID,true,true
