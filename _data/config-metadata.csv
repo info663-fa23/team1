@@ -12,3 +12,4 @@ cdwavenuenameplace,Last Exhibit Location,,,DCTERMS.description,location
 cdwapersoncorporatebodyauthority,Photographer Stamp,,,DCTERMS.creator,creator
 cdwarelatedtextualreferences,Bibliographic References,,,DCTERMS.relation.isreferencedby,mention
 cdwaimagereferences,Related Works,,,DCTERMS.relation.isreferencedby,subject;subjectOf
+cdwaimagerepositorynumber,Inventory Number,,,DCTERMS.identifier,identifier
